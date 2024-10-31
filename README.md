@@ -14,7 +14,6 @@
 ## Badges⚓⚓
 
 
-<b>My GitHub Stats</b>
 
 <a href="http://www.github.com/eljhosm0n"><img src="https://github-readme-stats.vercel.app/api?username=eljhosm0n&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=181824&hide_border=true&show_icons=true" alt="eljhosm0n's GitHub stats" /></a>
 
